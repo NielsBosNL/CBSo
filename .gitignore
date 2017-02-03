@@ -2,6 +2,9 @@
 # CBS-open data
 # overgenomen uit https://raw.githubusercontent.com/github/gitignore/master/R.gitignore
 
+# ignore some larger datasets - dont need to duplicate them on interet.
+# or can you ignore some files when you push data?
+/data/BelDO/
 
 # History files
 .Rhistory
