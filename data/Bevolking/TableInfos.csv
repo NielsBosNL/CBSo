@@ -1,0 +1,91 @@
+"ID","Title","ShortTitle","Identifier","Summary","Modified","ReasonDelivery","ExplanatoryText","Language","Catalog","Frequency","Period","ShortDescription","Description","DefaultPresentation","DefaultSelection","GraphTypes","OutputStatus","Source","MetaDataModified","SearchPriority"
+0,"Bevolking; geslacht, leeftijd en burgerlijke staat, 1 januari","Bevolking; leeftijd, burgerlijke staat","7461bev","Bevolking van Nederland naar geslacht, leeftijd en
+burgerlijke staat, 1 januari","2016-12-02T02:00:00","ActualiseringBijzonder","","nl","CBS","Perjaar","1950 - 2016","
+Bevolking van Nederland op 1 januari naar geslacht, leeftijd en burgerlijke staat.
+
+Gegevens beschikbaar vanaf: 1950
+
+Status van de cijfers:
+Alle in de tabel opgenomen cijfers zijn definitief.
+
+Wijzigingen per 2 december 2016:
+De Verklaring van symbolen is vereenvoudigd. Dit heeft tot gevolg dat in deze tabel alle aanwezige streepjes (nihil) in de cijfervelden zijn vervangen door een nul (het cijfer is kleiner dan de helft van de gekozen eenheid).
+
+Wanneer komen er nieuwe cijfers?
+In het 3e kwartaal van 2017 worden de definitieve cijfers per 1 januari 2017 in deze publicatie opgenomen.
+","INHOUDSOPGAVE
+
+1. Toelichting
+2. Definities en verklaring van symbolen
+3. Koppelingen naar relevante tabellen en artikelen
+4. Bronnen en methoden
+5. Meer informatie
+
+1. TOELICHTING
+
+Bevolking van Nederland op 1 januari naar geslacht, leeftijd en burgerlijke staat.
+
+Gegevens beschikbaar vanaf: 1950
+
+Status van de cijfers:
+Alle in de tabel opgenomen cijfers zijn definitief.
+
+Wijzigingen per 2 december 2016:
+De Verklaring van symbolen is vereenvoudigd. Dit heeft tot gevolg dat in deze tabel alle aanwezige streepjes (nihil) in de cijfervelden zijn vervangen door een nul (het cijfer is kleiner dan de helft van de gekozen eenheid).
+
+Wanneer komen er nieuwe cijfers?
+In het 3e kwartaal van 2017 worden de definitieve cijfers per 1 januari 2017 in deze publicatie opgenomen.
+
+2. DEFINITIES EN VERKLARING VAN SYMBOLEN
+
+Definities:
+
+Bevolking
+De inwoners van Nederland.
+In de bevolkingsaantallen zijn uitsluitend personen begrepen die zijn opgenomen in het bevolkingsregister van een Nederlandse gemeente. In principe wordt iedereen die voor onbepaalde tijd in Nederland woont, opgenomen in het bevolkingsregister van de woongemeente. Personen die tot de bevolking van Nederland behoren, maar voor wie geen vaste woonplaats valt aan te wijzen, zijn opgenomen in het bevolkingsregister van de gemeente 's-Gravenhage.
+In de bevolkingsregisters zijn niet opgenomen de in Nederland wonende personen waarvoor uitzonderingsregels gelden met betrekking tot opneming in de bevolkingsregisters (bijvoorbeeld diplomaten en NAVO militairen) en personen die niet legaal in Nederland verblijven.
+
+Burgerlijke staat
+Formele positie van een persoon waarbij wordt verwezen naar het huwelijk en het geregistreerd partnerschap. Per 1 januari 1998 is het geregistreerd partnerschap ingevoerd. Doorgaans worden het geregistreerd partnerschap en het huwelijk op dezelfde wijze behandeld.
+
+Geregistreerd partnerschap
+Een op het huwelijk lijkende relatie tussen twee personen van gelijk of van verschillend geslacht, vastgelegd in een akte van de Burgerlijke Stand. Per 1 januari 1998 is in Nederland het geregistreerd partnerschap ingevoerd.
+
+Leeftijd
+Het aantal gehele jaren dat op 31 december van het jaar voorafgaand aan het waarnemingsjaar is verstreken sinds de geboortedatum van de persoon.
+Te berekenen als jaar van waarneming minus 1 min geboortejaar.
+
+Verklaring van symbolen:
+
+niets (blanco)	: het cijfer kan op logische gronden niet voorkomen
+. 		: het cijfer is onbekend, onvoldoende betrouwbaar of geheim
+*		: voorlopige cijfers
+**		: nader voorlopige cijfers
+
+
+3. KOPPELINGEN NAAR RELEVANTE TABELLEN EN ARTIKELEN
+
+Relevante tabellen:
+<a href='http://statline.cbs.nl/StatWeb/publication/?DM=SLNL&PA=37296NED'>Bevolking; kerncijfers</a>
+<a href='http://statline.cbs.nl/StatWeb/publication/?DM=SLNL&PA=03759NED'>Bevolking; geslacht, leeftijd, burgerlijke staat en regio, 1 januari</a>
+
+Algemene informatie over de bevolking is te vinden op de <a href='https://www.cbs.nl/nl-nl/maatschappij/bevolking'>themapagina Bevolking</a>.
+
+4. BRONNEN EN METHODEN
+
+Trendbreuk burgerlijke staat
+Vanaf 2010 is een kleine verschuiving tussen de verschillende burgerlijke staten opgetreden (minder ongehuwd en meer gescheiden en verweduwd). Dit komt omdat in de periode 1998 tot 2010 niet alle burgerlijke staten beschikbaar zijn in de bronbestanden die CBS gebruikt. De burgerlijke staten 'verweduwd na partnerschap' en 'gescheiden na partnerschap' worden daardoor binnen deze statistiek binnen deze periode genegeerd. Voor deze statistiek betekent dit dat de burgerlijke staat van vóór het partnerschap is gebruikt, welke in de meeste gevallen ongehuwd was. Vanaf 2010 zijn alle burgerlijke staten beschikbaar.
+
+Trendbreuk nagekomen berichten
+Vanaf verslagjaar 2010 worden méér nagekomen berichten meegeteld. Voor een beschrijving van nagekomen berichten en de gevolgen voor de cijfers in de tabel zie de Korte onderzoeksbeschrijving Bevolkingsstatistiek. 
+
+De beschrijving van het onderzoek is te vinden bij de Korte onderzoeksbeschrijving <a href='https://www.cbs.nl/nl-nl/onze-diensten/methoden/onderzoeksomschrijvingen/korte-onderzoeksbeschrijvingen/bevolkingsstatistiek'>Bevolkingsstatistiek</a>.
+
+De gegevens in de tabel zijn vanaf 2015 samengesteld met behulp van het <a href='https://www.cbs.nl/nl-nl/onze-diensten/methoden/onderzoeksomschrijvingen/korte-onderzoeksbeschrijvingen/stelsel-van-sociaal-statistische-bestanden--ssb--'>Stelsel van Sociaal-statistische Bestanden (SSB)</a>. 
+
+5. MEER INFORMATIE
+
+<a href='https://www.cbs.nl/nl-nl/over-ons/contact/infoservice'>Infoservice</a>
+
+Copyright (c) Centraal Bureau voor de Statistiek Den Haag/Heerlen
+Verveelvoudiging is toegestaan, mits CBS als bron wordt vermeld.","_la=nl&_ed=Geslacht&_td=Perioden&graphType=line","$filter=((Geslacht eq '1') or (Geslacht eq '2')) and (Leeftijd eq '100') and (substringof('JJ',Perioden))&$select=Geslacht, Leeftijd, Perioden, TotaleBevolking_1","Table,Bar,Line","Regulier","CBS.","2016-12-02T02:00:00","2"

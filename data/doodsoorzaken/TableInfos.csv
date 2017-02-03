@@ -1,0 +1,128 @@
+"ID","Title","ShortTitle","Identifier","Summary","Modified","ReasonDelivery","ExplanatoryText","Language","Catalog","Frequency","Period","ShortDescription","Description","DefaultPresentation","DefaultSelection","GraphTypes","OutputStatus","Source","MetaDataModified","SearchPriority"
+0,"Overledenen; ongevallen, inwoners van Nederland","Overledenen; ongevallen, inwoners","81452NED","Nederlandse inwoners overleden door dodelijke ongevallen, tijdens vervoer
+en brand, door accidentele val, vergiftiging en verdrinking","2016-08-30T02:00:00","Herontwerp","- De vervoerswijze 'Brom- en snorfiets, invalidenvoertuig' is voor alle jaren, vanwege het grote verschil tussen de vervoerswijzen, opgesplitst in de categorieën 'Brom- en snorfiets en brommobiel' en 'Gemotoriseerd invalidenvoertuig en scootmobiel'.
+- In de oude cijfers werden codes meegenomen die niet bij 'dodelijke ongevallen' thuis hoorden. Het ging hier om onder andere een aantal doodsoorzaken waarbij de opzet niet bepaald was (ICD-10 codes Y20-Y33) en een aantal late gevolgen (ICD-10 codes Y87-Y89). Deze doodsoorzaken zijn nu verwijderd. Dit heeft voor alle jaren gevolgen voor het aantal overledenen met als oorzaak 'overig incl. laat gevolg' en dat werkt door op alle betreffende totalen en op de relatieve cijfers. Per jaar fluctueerden deze aantallen tussen 9 in 2008 en 55 in 1998.
+- De cijfers in de kolommen 'vergiftiging door medicijnen' en 'vergiftiging door drugs' waren omgewisseld voor alle jaren sinds de nieuwbouw van deze tabel in 2014. Dit is nu recht gezet.","nl","CBS","Perjaar","1996-2015","
+Deze tabel bevat gegevens over inwoners van Nederland die als gevolg van een ongeval (voornamelijk vervoersongeval, accidentele val, accidentele verdrinking en accidentele vergiftiging) zijn overleden in het aangegeven jaar. De plaats van het ongeval hoeft niet in Nederland gelegen te zijn. De ongevalsdatum kan in het voorgaande jaar vallen.
+De gegevens zijn uitgesplitst naar geslacht en leeftijd van het slachtoffer. De ICD-10 doodsoorzaakcodes die hierbij horen zijn V01-W77, W80-X59, Y10-Y19, Y34 en Y85-Y86. 
+De personen overleden tijdens de MH17 ramp in 2014 zijn niet ingedeeld als een ongeval met een vliegtuig, maar als een handeling van oorlog of opstand (ICD-10 code Y36). Deze personen zijn dan ook niet terug te vinden in deze ongevallen tabel.
+
+Gegevens beschikbaar vanaf: 1996
+
+Status van de cijfers:
+De cijfers tot en met 2014 zijn definitief. De cijfers over 2015 zijn voorlopig.
+
+Wijzigingen per 30 augustus 2016:
+- De voorlopige cijfers over 2015 zijn toegevoegd.
+- De vervoerswijze 'Brom- en snorfiets, invalidenvoertuig' is voor alle jaren, vanwege het grote verschil tussen de vervoerswijzen, opgesplitst in de categorieën 'Brom- en snorfiets en brommobiel' en 'Gemotoriseerd invalidenvoertuig en scootmobiel'.
+- In de oude cijfers werden codes meegenomen die niet bij ‘dodelijke ongevallen’ thuis hoorden. Het ging hier om onder andere een aantal doodsoorzaken waarbij de opzet niet bepaald was (ICD-10 codes Y20-Y33) en een aantal late gevolgen (ICD-10 codes Y87-Y89). Deze doodsoorzaken zijn nu verwijderd. Dit heeft voor alle jaren gevolgen voor het aantal overledenen met als oorzaak 'overig incl. laat gevolg' en dat werkt door op alle betreffende totalen en op de relatieve cijfers. Per jaar fluctueerden deze aantallen tussen 9 in 2008 en 55 in 1998.
+- De cijfers in de kolommen 'vergiftiging door medicijnen' en 'vergiftiging door drugs' waren omgewisseld voor alle jaren sinds de nieuwbouw van deze tabel in 2014. Dit is nu recht gezet.
+
+Wijzigingen per 12 december 2014:
+Het CBS is in het statistiekjaar 2013 overgestapt op het gebruik van internationale software voor automatisch coderen van de doodsoorzaken. Hiermee zijn de cijfers beter reproduceerbaar en internationaal vergelijkbaar. Wel zijn er enkele forse verschuivingen te zien in de doodsoorzaken. Externe doodsoorzaken zijn echter net als voorheen handmatig verwerkt.
+
+
+Wanneer komen er nieuwe cijfers?
+In het derde kwartaal van 2017 verschijnen er voorlopige cijfers over 2016.
+
+","INHOUDSOPGAVE
+
+
+1. Toelichting
+2. Definities en verklaring van symbolen
+3. Koppelingen naar relevante tabellen en artikelen
+4. Bronnen en methoden
+5. Meer informatie 
+
+
+1. TOELICHTING
+
+Deze tabel bevat gegevens over inwoners van Nederland die als gevolg van een ongeval (voornamelijk vervoersongeval, accidentele val, accidentele verdrinking en accidentele vergiftiging) zijn overleden in het aangegeven jaar. De plaats van het ongeval hoeft niet in Nederland gelegen te zijn. De ongevalsdatum kan in het voorgaande jaar vallen.
+De gegevens zijn uitgesplitst naar geslacht en leeftijd van het slachtoffer. De ICD-10 doodsoorzaakcodes die hierbij horen zijn V01-W77, W80-X59, Y10-Y19, Y34 en Y85-Y86. 
+De personen overleden tijdens de MH17 ramp in 2014 zijn niet ingedeeld als een ongeval met een vliegtuig, maar als een handeling van oorlog of opstand (ICD-10 code Y36). Deze personen zijn dan ook niet terug te vinden in deze ongevallen tabel.
+
+Gegevens beschikbaar vanaf: 1996
+
+Status van de cijfers:
+De cijfers tot en met 2014 zijn definitief. De cijfers over 2015 zijn voorlopig.
+
+Wijzigingen per 30 augustus 2016:
+- De voorlopige cijfers over 2015 zijn toegevoegd.
+- De vervoerswijze 'Brom- en snorfiets, invalidenvoertuig' is voor alle jaren, vanwege het grote verschil tussen de vervoerswijzen, opgesplitst in de categorieën 'Brom- en snorfiets en brommobiel' en 'Gemotoriseerd invalidenvoertuig en scootmobiel'.
+- In de oude cijfers werden codes meegenomen die niet bij ‘dodelijke ongevallen’ thuis hoorden. Het ging hier om onder andere een aantal doodsoorzaken waarbij de opzet niet bepaald was (ICD-10 codes Y20-Y33) en een aantal late gevolgen (ICD-10 codes Y87-Y89). Deze doodsoorzaken zijn nu verwijderd. Dit heeft voor alle jaren gevolgen voor het aantal overledenen met als oorzaak 'overig incl. laat gevolg' en dat werkt door op alle betreffende totalen en op de relatieve cijfers. Per jaar fluctueerden deze aantallen tussen 9 in 2008 en 55 in 1998.
+- De cijfers in de kolommen 'vergiftiging door medicijnen' en 'vergiftiging door drugs' waren omgewisseld voor alle jaren sinds de nieuwbouw van deze tabel in 2014. Dit is nu recht gezet.
+
+Wijzigingen per 12 december 2014:
+Het CBS is in het statistiekjaar 2013 overgestapt op het gebruik van internationale software voor automatisch coderen van de doodsoorzaken. Hiermee zijn de cijfers beter reproduceerbaar en internationaal vergelijkbaar. Wel zijn er enkele forse verschuivingen te zien in de doodsoorzaken. Externe doodsoorzaken zijn echter net als voorheen handmatig verwerkt.
+
+
+Wanneer komen er nieuwe cijfers?
+In het derde kwartaal van 2017 verschijnen er voorlopige cijfers over 2016.
+
+
+2. DEFINITIES EN VERKLARING VAN SYMBOLEN
+
+Definities:
+
+Leeftijd
+Leeftijd op het moment van overlijden.
+
+Overlijden aan een ongeval
+Ieder overlijden dat het gevolg is van een ongeval, zoals vervoersongeval, val, verdrinking en vergiftiging. Het ongeval kan in het buitenland hebben plaatsgevonden. Euthanasie en geweld waaronder moord, zelfdoding en doodslag vallen niet onder ongevallen en daarmee buiten deze tabel. Ook complicaties van medische behandelingen, verslikking en wettelijke interventie wordt niet bij de ongevallen geteld. De ICD-10 doodsoorzaakcodes die hierbij horen zijn V01-W77, W80-X59, Y10-Y19, Y34 en Y85-Y86.
+
+
+Verklaring van symbolen:
+
+niets (blanco)	: het cijfer kan op logische gronden niet voorkomen
+. 		: het cijfer is onbekend, onvoldoende betrouwbaar of geheim
+*		: voorlopige cijfers
+**		: nader voorlopige cijfers
+
+
+3. KOPPELINGEN NAAR RELEVANTE TABELLEN EN ARTIKELEN
+
+Relevante tabellen:
+<a Href=""http://statline.cbs.nl/StatWeb/publication/?VW=T&DM=slnl&PA=7022gza"">Overledenen; zelfdoding (inwoners), diverse kenmerken</a>
+<a Href='http://statline.cbs.nl/Statweb/publication/?DM=SLNL&PA=81453NED'>Overledenen; moord en doodslag; pleeglocatie Nederland</a>
+<a href='http://statline.cbs.nl/Statweb/publication/?DM=SLNL&PA=7052%5F95&'>Overledenen; belangrijke doodsoorzaken (korte lijst), leeftijd, geslacht</a>
+<a href='http://statline.cbs.nl/Statweb/publication/?DM=SLNL&PA=7233'>Overledenen; doodsoorzaak (uitgebreide lijst), leeftijd, geslacht</a>
+
+Zeer beperkte gegevens over dodelijke arbeidsongevallen zijn te vinden in de maatwerktabel: 
+<a 
+href=""https://www.cbs.nl/nl-nl/maatwerk/2015/50/dodelijke-arbeidsongevallen-2001-2014"">Dodelijke arbeidsongevallen, 2001-2014</a>
+
+Meer informatie is te vinden op de themapagina <a 
+href=""https://www.cbs.nl/nl-nl/maatschappij/gezondheid-en-welzijn"">Gezondheid en welzijn</a>.
+
+
+4. BRONNEN EN METHODEN
+
+Gebruikte databron(nen) (buiten het CBS): 
+- doodsoorzaakverklaring;
+- Basisregistratie Personen (BRP);
+- dossier Officier van Justitie;
+- verkeersongevallenregistratie Ministerie van Infrastructuur en Milieu;
+- bedrijfsongevallenregistratie Arbeidsinspectie van Ministerie van Sociale Zaken en Werkgelegenheid;
+- zelfdodingsformulieren ontvangen van politie.
+
+De onderzoeksmethodes zijn te vinden in de onderzoeksbeschrijvingen:
+-<a href=https://www.cbs.nl/nl-nl/onze-diensten/methoden/onderzoeksomschrijvingen/korte-onderzoeksbeschrijvingen/doodsoorzakenstatistiek>Doodsoorzakenstatistiek</a>;
+-<a href=https://www.cbs.nl/nl-nl/onze-diensten/methoden/onderzoeksomschrijvingen/korte-onderzoeksbeschrijvingen/niet-natuurlijk-overlijden>Niet-natuurlijk overlijden</a>;
+-<a href=https://www.cbs.nl/nl-nl/onze-diensten/methoden/onderzoeksomschrijvingen/korte-onderzoeksbeschrijvingen/verkeersdoden>Verkeersdoden</a>.
+
+Documentatie over de overgang van handmatig naar automatisch coderen:
+- Het <a href=""https://www.cbs.nl/nl-nl/nieuws/2014/50/de-meeste-mensen-sterven-aan-kanker-en-hart-en-vaatziekten"">nieuwsbericht</a> bij de publicatie van de gegevens over doodsoorzaken 2013;
+- <a href=https://www.cbs.nl/nl-nl/achtergrond/2015/51/van-handmatig-naar-automatisch-coderen-van-doodsoorzaken>Van handmatig naar automatisch coderen van doodsoorzaken</a>;
+- <a href=""https://www.cbs.nl/NR/rdonlyres/237B10A1-6C09-40EF-9AA5-902E37CFCE27/0/2016veranderingenindedoodsoorzakenstatistiek20122013.pdf"">Veranderingen in de doodsoorzakenstatistiek 2012–2013</a>.
+
+Documentatie over onderzoek naar de breuken en mogelijkheden voor reconstructie:
+ <a href= ""https://www.cbs.nl/NR/rdonlyres/30DFE573-CBF1-4121-AA42-486820FBDA78/0/2012reconstructiemogelijkhedenlangetijdreeksendoodsoorz.pdf""> Reconstructiemogelijkheden van lange tijdreeksen van de doodsoorzakenstatistiek op basis van tijdreeksanalyse</a>.
+
+
+5. MEER INFORMATIE
+
+<a href='https://www.cbs.nl/nl-nl/over-ons/contact/infoservice'>Infoservice</a>
+
+Copyright (c) Centraal Bureau voor de Statistiek, Den Haag/Heerlen 
+Verveelvoudiging is toegestaan, mits CBS als bron wordt vermeld.
+","_la=nl&_si=&_gu=&_ed=Geslacht&graphType=line&_td=Perioden","$filter=((Geslacht eq '3000') or (Geslacht eq '4000')) and (Leeftijd eq '10000') and (substringof('JJ',Perioden))&$select=Geslacht, Leeftijd, Perioden, TotaalDodelijkeOngevallen_1","Table,Bar,Line","Regulier","CBS.","2016-08-30T02:00:00","2"

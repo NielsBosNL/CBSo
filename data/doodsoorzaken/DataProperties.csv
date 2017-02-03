@@ -1,0 +1,68 @@
+"odata.type","ID","Position","ParentID","Type","Key","Title","Description","ReleasePolicy","Datatype","Unit","Decimals","Default"
+"Cbs.OData.Dimension",0,0,,"Dimension","Geslacht","Geslacht","",,,,,
+"Cbs.OData.Dimension",1,1,,"Dimension","Leeftijd","Leeftijd","",,,,,
+"Cbs.OData.TimeDimension",2,2,,"TimeDimension","Perioden","Perioden","",TRUE,,,,
+"Cbs.OData.TopicGroup",3,,,"TopicGroup","","Dodelijke ongevallen (aantallen)","Ieder overlijden dat het gevolg is van een ongeval, zoals vervoersongeval, val, verdrinking en vergiftiging. Het ongeval kan in het buitenland hebben plaatsgevonden. Euthanasie en geweld waaronder moord, zelfdoding en doodslag vallen niet onder ongevallen en daarmee buiten deze tabel. Ook complicaties van medische behandelingen, verslikking en wettelijke interventie wordt niet bij de ongevallen geteld. 
+De ICD-10 doodsoorzaakcodes die hierbij horen zijn V01-W77, W80-X59, Y10-Y19, Y34 en Y85-Y86.",,,,,
+"Cbs.OData.Topic",4,3,3,"Topic","TotaalDodelijkeOngevallen_1","Totaal dodelijke ongevallen","De ICD-10 doodsoorzaakcodes die hierbij horen zijn V01-W77, W80-X59, Y10-Y19, Y34 en Y85-Y86.",,"Integer","aantal",0,"Impossible"
+"Cbs.OData.TopicGroup",5,,3,"TopicGroup","","Dodelijke vervoersongevallen","Een vervoersongeval is elk ongeval waarbij een hulpmiddel betrokken is dat primair ontworpen is voor- of op het betrokken tijdstip gebruikt is voor – vervoer van personen of goederen van de ene naar de andere plaats. 
+De ICD-10 doodsoorzaakcodes die hierbij horen zijn V01-V99.",,,,,
+"Cbs.OData.Topic",6,4,5,"Topic","TotaalDodelijkeVervoersongevallen_2","Totaal dodelijke vervoersongevallen","De ICD-10 doodsoorzaakcodes die hierbij horen zijn V01-V99.",,"Integer","aantal",0,"Impossible"
+"Cbs.OData.TopicGroup",7,,5,"TopicGroup","","Wijze van deelname slachtoffer","",,,,,
+"Cbs.OData.Topic",8,5,7,"Topic","Voetganger_3","Voetganger","De ICD-10 doodsoorzaakcodes die hierbij horen zijn V01-V09.",,"Integer","aantal",0,"Impossible"
+"Cbs.OData.Topic",9,6,7,"Topic","Fiets_4","Fiets","De ICD-10 doodsoorzaakcodes die hierbij horen zijn V10-V19. Inclusief elektrische fiets.",,"Integer","aantal",0,"Impossible"
+"Cbs.OData.Topic",10,7,7,"Topic","BromEnSnorfietsEnBrommobiel_5","Brom- en snorfiets en brommobiel","De ICD-10 doodsoorzaakcodes die hierbij horen zijn V20-V29, plus de aanduiding dat het soort voertuig een brommobiel, bromfiets of snorfiets is. ",,"Integer","aantal",0,"Impossible"
+"Cbs.OData.Topic",11,8,7,"Topic","GemotInvalidenvoertuigScootmobiel_6","Gemot. invalidenvoertuig, scootmobiel","De ICD-10 doodsoorzaakcodes die hierbij horen zijn V30-V39 plus de aanduiding dat het soort voertuig een gemotoriseerd invalidevoertuig of scootmobiel is.",,"Integer","aantal",0,"Impossible"
+"Cbs.OData.Topic",12,9,7,"Topic","Motorfiets_7","Motorfiets","De ICD-10 doodsoorzaakcodes die hierbij horen zijn V20-V29, plus de aanduiding dat het soort voertuig een motor is.",,"Long","aantal",0,"Impossible"
+"Cbs.OData.Topic",13,10,7,"Topic","Personenauto_8","Personenauto","De ICD-10 doodsoorzaakcodes die hierbij horen zijn V40-V49.",,"Integer","aantal",0,"Impossible"
+"Cbs.OData.Topic",14,11,7,"Topic","BestelautoVrachtauto_9","Bestelauto, vrachtauto","De ICD-10 doodsoorzaakcodes die hierbij horen zijn V50-V69.",,"Long","aantal",0,"Impossible"
+"Cbs.OData.Topic",15,12,7,"Topic","OverigOnbekend_10","Overig/onbekend","Bijvoorbeeld bestuurders en passagiers van bussen, treinen, trams, landbouwvoertuigen, vaartuigen en luchtvaartuigen. 
+De ICD-10 doodsoorzaakcodes die hierbij horen zijn V70-V99.",,"Long","aantal",0,"Impossible"
+"Cbs.OData.Topic",16,13,3,"Topic","AccidenteleVal_11","Accidentele val","Een accidentele val is een ongeval waarbij een persoon onopzettelijk valt, struikelt of uitglijdt. 
+De ICD-10 doodsoorzaakcodes die hierbij horen zijn W00-W19 en X59.",,"Integer","aantal",0,"Impossible"
+"Cbs.OData.Topic",17,14,3,"Topic","AccidenteleVerdrinking_12","Accidentele verdrinking","Een accidentele verdrinking is een ongeval waarbij een persoon onopzettelijk verdrinkt na te water zijn gegaan of geraakt (inclusief in badkuip). 
+De ICD-10 doodsoorzaakcodes die hierbij horen zijn W65-W74.",,"Integer","aantal",0,"Impossible"
+"Cbs.OData.TopicGroup",18,,3,"TopicGroup","","Acc vergiftiging incl opzet niet bepaald","Een accidentele vergiftiging is een ongeval waarbij een persoon onopzettelijk een dodelijke dosis van een bepaalde stof inneemt. Ook vergiftigingen waarbij de intentie onbekend was, worden meegenomen onder accidentele vergiftiging. 
+De ICD-10 doodsoorzaakcodes die hierbij horen zijn X40-X49 en Y10-Y19.",,,,,
+"Cbs.OData.Topic",19,15,18,"Topic","TotaalAccidenteleVergiftiging_13","Totaal accidentele vergiftiging","De ICD-10 doodsoorzaakcodes die hierbij horen zijn X40-X49 en Y10-Y19.",,"Integer","aantal",0,"Impossible"
+"Cbs.OData.TopicGroup",20,,18,"TopicGroup","","Oorzaak vergiftiging","",,,,,
+"Cbs.OData.Topic",21,16,20,"Topic","Medicijnen_14","Medicijnen","De ICD-10 doodsoorzaakcodes die hierbij horen zijn X40-X41, X43-X44, Y10-Y11 en Y13-Y14.",,"Integer","aantal",0,"Impossible"
+"Cbs.OData.Topic",22,17,20,"Topic","Drugs_15","Drugs","De ICD-10 doodsoorzaakcodes die hierbij horen zijn X42 en Y12.",,"Integer","aantal",0,"Impossible"
+"Cbs.OData.Topic",23,18,20,"Topic","Alcohol_16","Alcohol","De ICD-10 doodsoorzaakcodes die hierbij horen zijn X45 en Y15.",,"Integer","aantal",0,"Impossible"
+"Cbs.OData.Topic",24,19,20,"Topic","OverigOnbekend_17","Overig/onbekend","De ICD-10 doodsoorzaakcodes die hierbij horen zijn X46-X49 en Y16-Y19.",,"Long","aantal",0,"Impossible"
+"Cbs.OData.TopicGroup",25,,3,"TopicGroup","","Overige dodelijke ongevallen","Dit zijn de ongevallen die niet vallen onder een van de andere genoemde categorieën. Ongevallen met onbekende toedracht zijn ook opgenomen in deze groep. De grootste groep wordt gevormd door de late gevolgen van een ongeval. 
+De ICD-10 doodsoorzaakcodes die hierbij horen zijn W20-W64,W75-W77, W80-X39, X50-X58, Y34 en Y85-Y86.
+",,,,,
+"Cbs.OData.Topic",26,20,25,"Topic","TotaalOverigeDodelijkeOngevallen_18","Totaal overige dodelijke ongevallen","De ICD-10 doodsoorzaakcodes die hierbij horen zijn W20-W64,W75-W77, W80-X39,X50-X58, Y34 en Y85-Y86.",,"Integer","aantal",0,"Impossible"
+"Cbs.OData.TopicGroup",27,,25,"TopicGroup","","Oorzaak overige dodelijke ongevallen","",,,,,
+"Cbs.OData.Topic",28,21,27,"Topic","MechanischEffect_19","Mechanisch effect","Effect van mechanische inwerking, niet veroorzaakt door levende wezens. Hieronder valt bijvoorbeeld bekneld raken tussen of getroffen worden door voorwerpen. 
+De ICD-10 doodsoorzaakcodes die hierbij horen zijn W20-W49.",,"Integer","aantal",0,"Impossible"
+"Cbs.OData.Topic",29,22,27,"Topic","RookVuurEnVlammen_20","Rook, vuur en vlammen","Overlijden door een ongeval na blootstelling aan rook, vuur en vlammen. 
+De ICD-10 doodsoorzaakcodes die hierbij horen zijn X00-X09. ",,"Integer","aantal",0,"Impossible"
+"Cbs.OData.Topic",30,23,27,"Topic","Verstikking_21","Verstikking","De ICD-10 doodsoorzaakcodes die hierbij horen zijn W75-W77 en W80-W84.",,"Integer","aantal",0,"Impossible"
+"Cbs.OData.Topic",31,24,27,"Topic","OverigInclLaatGevolg_22","Overig incl. laat gevolg","Ongevallen met onbekende toedracht zijn ook opgenomen in deze groep. De grootste groep wordt gevormd door de late gevolgen van een ongeval. 'Laat gevolg' betreft personen die overleden zijn 30 dagen of meer nadat het ongeval plaats gevonden heeft. 
+De ICD-10 doodsoorzaakcodes die hierbij horen zijn W50-W64, W85-W99, X10-X39, X50-X58, Y34 en Y85-Y86.",,"Integer","aantal",0,"Impossible"
+"Cbs.OData.TopicGroup",32,,,"TopicGroup","","Dodelijke ongevallen (relatief)","",,,,,
+"Cbs.OData.Topic",33,25,32,"Topic","TotaalDodelijkeOngevallen_23","Totaal dodelijke ongevallen","Ieder overlijden dat het gevolg is van een ongeval, zoals vervoersongeval, val, verdrinking en vergiftiging. Het ongeval kan in het buitenland hebben plaatsgevonden. Euthanasie en geweld waaronder moord, zelfdoding en doodslag vallen niet onder ongevallen en daarmee buiten deze tabel. Ook complicaties van medische behandelingen, verslikking en wettelijke interventie wordt niet bij de ongevallen geteld. 
+De ICD-10 doodsoorzaakcodes die hierbij horen zijn V01-W77, W80-X59, Y10-Y19, Y34 en Y85-Y86.
+
+Per 100 000 van de gemiddelde bevolking in de overeenkomstige bevolkingsgroep van dat jaar.
+",,"Double","Per 100 000 van gemiddelde bevolking",1,"Impossible"
+"Cbs.OData.Topic",34,26,32,"Topic","DodelijkeVervoersongevallen_24","Dodelijke vervoersongevallen","Een vervoersongeval is elk ongeval waarbij een hulpmiddel betrokken is dat primair ontworpen is voor- of op het betrokken tijdstip gebruikt is voor – vervoer van personen of goederen van de ene naar de andere plaats. 
+De ICD-10 doodsoorzaakcodes die hierbij horen zijn V01-V99.
+
+Per 100 000 van de gemiddelde bevolking in de overeenkomstige bevolkingsgroep van dat jaar.",,"Double","Per 100 000 van gemiddelde bevolking",1,"Impossible"
+"Cbs.OData.Topic",35,27,32,"Topic","AccidenteleVal_25","Accidentele val","Een accidentele val is een ongeval waarbij een persoon onopzettelijk valt, struikelt of uitglijdt. 
+De ICD-10 doodsoorzaakcodes die hierbij horen zijn W00-W19 en X59. 
+Per 100 000 van de gemiddelde bevolking in de overeenkomstige bevolkingsgroep van dat jaar.",,"Double","Per 100 000 van gemiddelde bevolking",1,"Impossible"
+"Cbs.OData.Topic",36,28,32,"Topic","AccidenteleVerdrinking_26","Accidentele verdrinking","Een accidentele verdrinking is een ongeval waarbij een persoon onopzettelijk verdrinkt na te water zijn gegaan of geraakt (inclusief in badkuip). 
+De ICD-10 doodsoorzaakcodes die hierbij horen zijn W65-W74. 
+Per 100 000 van de gemiddelde bevolking in de overeenkomstige bevolkingsgroep van dat jaar.",,"Double","Per 100 000 van gemiddelde bevolking",1,"Impossible"
+"Cbs.OData.Topic",37,29,32,"Topic","AccidenteleVergiftigingInclOpzetOnb_27","Accidentele vergiftiging incl. opzet onb","Een accidentele vergiftiging is een ongeval waarbij een persoon onopzettelijk een dodelijke dosis van een bepaalde stof inneemt. Ook vergiftigingen waarbij de intentie onbekend was, worden meegenomen onder accidentele vergiftiging. 
+De ICD-10 doodsoorzaakcodes die hierbij horen zijn X40-X49 en Y10-Y19. 
+Per 100 000 van de gemiddelde bevolking in de overeenkomstige bevolkingsgroep van dat jaar.
+",,"Double","Per 100 000 van gemiddelde bevolking",1,"Impossible"
+"Cbs.OData.Topic",38,30,32,"Topic","OverigeDodelijkeOngevallen_28","Overige dodelijke ongevallen","Dit zijn de ongevallen die niet vallen onder een van de andere genoemde categorieën. Ongevallen met onbekende toedracht zijn ook opgenomen in deze groep. De grootste groep wordt gevormd door de late gevolgen van een ongeval. 
+De ICD-10 doodsoorzaakcodes die hierbij horen zijn W20-W64,W75-W77, W80-X39, X50-X58, Y34 en Y85-Y86.
+
+Per 100 000 van de gemiddelde bevolking in de overeenkomstige bevolkingsgroep van dat jaar.",,"Double","Per 100 000 van gemiddelde bevolking",1,"Impossible"

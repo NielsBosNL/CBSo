@@ -1,0 +1,7 @@
+"ID","DimensionKey","Title","Description","ParentID"
+0,"Leeftijd","Afzonderlijke leeftijden",,
+1,"Leeftijd","Afzonderlijke leeftijden",,0
+2,"Leeftijd","Leeftijdsgroepstotalen",,
+3,"Leeftijd","Vijf-jaars leeftijdsgroepen",,2
+4,"Leeftijd","Tien-jaars leeftijdsgroepen",,2
+5,"Leeftijd","Overige leeftijdsgroepen",,2
