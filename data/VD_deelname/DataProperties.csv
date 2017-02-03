@@ -1,0 +1,24 @@
+"odata.type","ID","Position","ParentID","Type","Key","Title","Description","ReleasePolicy","Datatype","Unit","Decimals","Default"
+"Cbs.OData.Dimension",0,0,,"Dimension","Geslacht","Geslacht",,,,,,
+"Cbs.OData.Dimension",1,1,,"Dimension","Leeftijd","Leeftijd",,,,,,
+"Cbs.OData.TimeDimension",2,2,,"TimeDimension","Perioden","Perioden",,FALSE,,,,
+"Cbs.OData.TopicGroup",3,,,"TopicGroup","","Verkeersdoden","De weggebruiker die is overleden ten gevolge van een plotseling optredende gebeurtenis op de openbare weg in Nederland, verband houdend met het verkeer, waarbij ten minste één rijdend voertuig was betrokken. Het gaat dus om zowel inwoners als niet-inwoners. 
+Een overledene wordt niet als verkeersdode geteld indien:
+- het ongeval zich voordoet op een plaats die niet opengesteld is voor
+openbaar rij- en ander verkeer;
+- het ongeval zich voordoet op een gedeelte van een trein- of trambaan die geen deel uitmaakt van de openbare weg en door de aard uitsluitend
+gebruikt kan worden door een trein of een tram;
+- het slachtoffer 30 dagen of meer na het ongeval overlijdt;
+- de overledene al als slachtoffer van 'moord' of van 'zelfdoding' is geteld.",,,,,
+"Cbs.OData.Topic",4,3,3,"Topic","TotaalVerkeersdoden_1","Totaal verkeersdoden",,,"Integer","aantal",0,"Zero"
+"Cbs.OData.TopicGroup",5,,3,"TopicGroup","","Wijze van deelname",,,,,,
+"Cbs.OData.Topic",6,4,5,"Topic","Voetganger_2","Voetganger",,,"Integer","aantal",0,"Zero"
+"Cbs.OData.Topic",7,5,5,"Topic","Fiets_3","Fiets","Fiets, incl. E-bike",,"Integer","aantal",0,"Zero"
+"Cbs.OData.Topic",8,6,5,"Topic","BromEnSnorfietsEnBrommobiel_4","Brom- en snorfiets en brommobiel","",,"Integer","aantal",0,"Zero"
+"Cbs.OData.Topic",9,7,5,"Topic","GemotInvalidenvrtgInclScootmobiel_5","Gemot. invalidenvrtg, incl. scootmobiel","Gemotoriseerd invalidenvoertuig, inclusief scootmobiel",,"Integer","aantal",0,"Zero"
+"Cbs.OData.Topic",10,8,5,"Topic","Motorfiets_6","Motorfiets",,,"Integer","aantal",0,"Zero"
+"Cbs.OData.Topic",11,9,5,"Topic","Personenauto_7","Personenauto",,,"Integer","aantal",0,"Zero"
+"Cbs.OData.Topic",12,10,5,"Topic","BestelautoVrachtwagen_8","Bestelauto, vrachtwagen",,,"Integer","aantal",0,"Zero"
+"Cbs.OData.Topic",13,11,5,"Topic","OverigeDeelname_9","Overige deelname","Overige gespecificeerde maar niet afzonderlijk genoemde wijze van
+deelname, bijvoorbeeld bestuurders en passagiers van bussen, trams en landbouwvoertuigen.",,"Integer","aantal",0,"Zero"
+"Cbs.OData.Topic",14,12,5,"Topic","OnbekendeDeelname_10","Onbekende deelname","De wijze van deelname is niet gespecificeerd.",,"Integer","aantal",0,"Zero"

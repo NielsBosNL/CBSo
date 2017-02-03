@@ -1,0 +1,118 @@
+"ID","Title","ShortTitle","Identifier","Summary","Modified","ReasonDelivery","ExplanatoryText","Language","Catalog","Frequency","Period","ShortDescription","Description","DefaultPresentation","DefaultSelection","GraphTypes","OutputStatus","Source","MetaDataModified","SearchPriority"
+0,"Overledenen; doden als gevolg van verkeersongeval in Nederland, provincie","Overledenen; verkeersdoden, provincie","71426ned","Overledenen als gevolg van een verkeersongeval dat in Nederland 
+plaatsvond (inwoners en niet-inwoners) naar provincie van ongeval","2016-04-21T15:30:00","ActualiseringBijzonder","","nl","CBS","Perjaar","1996-2015","
+Deze tabel bevat het aantal personen dat is overleden als gevolg van een verkeersongeval dat in Nederland plaatsvond. Het gaat dus om zowel inwoners als niet-inwoners. De gegevens kunnen worden opgesplitst naar provincie van ongeval, leeftijd en geslacht. In de tabel is het statistiekjaar gelijk aan het jaar waarin het ongeval plaatsvond. Het jaar van ongeval hoeft niet gelijk te zijn aan het jaar van overlijden.
+
+Gegevens beschikbaar vanaf: 1996
+
+Status van de cijfers:
+Het betreft definitieve cijfers.
+
+Wijzigingen per 21 april 2016:
+Definitieve cijfers over 2015 zijn toegevoegd. 
+
+Wanneer komen er nieuwe cijfers?
+In april worden de cijfers van het voorafgaande kalenderjaar in deze publicatie opgenomen.
+
+","INHOUDSOPGAVE
+
+1. Toelichting
+2. Definities en verklaring van symbolen
+3. Koppelingen naar relevante tabellen en artikelen
+4. Bronnen en methoden
+5. Meer informatie
+
+
+1. TOELICHTING
+
+Deze tabel bevat het aantal personen dat is overleden als gevolg van een verkeersongeval dat in Nederland plaatsvond. Het gaat dus om zowel inwoners als niet-inwoners. De gegevens kunnen worden opgesplitst naar provincie van ongeval, leeftijd en geslacht. In de tabel is het statistiekjaar gelijk aan het jaar waarin het ongeval plaatsvond. Het jaar van ongeval hoeft niet gelijk te zijn aan het jaar van overlijden.
+
+Gegevens beschikbaar vanaf: 1996
+
+Status van de cijfers:
+Het betreft definitieve cijfers.
+
+Wijzigingen per 21 april 2016:
+Definitieve cijfers over 2015 zijn toegevoegd. 
+
+Wanneer komen er nieuwe cijfers?
+In april worden de cijfers van het voorafgaande kalenderjaar in deze publicatie opgenomen.
+
+
+2. DEFINITIES EN VERKLARING VAN SYMBOLEN
+
+Definities:
+
+Provincie
+Provincie waar het ongeval heeft plaatsgevonden.
+
+Leeftijd
+Leeftijd op het moment van overlijden.
+
+Verkeersdode
+De weggebruiker die is overleden ten gevolge van een plotseling optredende gebeurtenis op de openbare weg in Nederland, verband houdend met het verkeer, waarbij ten minste één rijdend voertuig was betrokken. Het gaat dus om zowel inwoners als niet-inwoners. 
+Een overledene wordt niet als verkeersdode geteld indien:
+- het ongeval zich voordoet op een plaats die niet opengesteld is voor openbaar rijverkeer en ander verkeer;
+- het ongeval zich voordoet op een gedeelte van een trein- of trambaan die geen deel uitmaakt van de openbare weg en door de aard uitsluitend gebruikt kan worden door een trein of een tram;
+- het slachtoffer 30 dagen of meer na het ongeval overlijdt;
+- de overledene al als slachtoffer van 'moord' of van 'zelfdoding' is geteld.
+
+Verklaring van symbolen:
+
+niets (blanco)	: het cijfer kan op logische gronden niet voorkomen
+. 		: het cijfer is onbekend, onvoldoende betrouwbaar of geheim
+*		: voorlopige cijfers
+**		: nader voorlopige cijfers
+
+
+3. KOPPELINGEN NAAR RELEVANTE TABELLEN EN ARTIKELEN
+
+Relevante tabellen: 
+
+Cijfers over verkeersdoden naar wijze van deelname zijn te vinden in tabel <a 
+Href=""http://statline.cbs.nl/StatWeb/publication/?VW=T&DM=slnl&PA=71936ned"">
+Overledenen; doden door verkeersongeval in Nederland, wijze van deelname</a>.
+
+Cijfers over overledenen naar belangrijke doodsoorzaken, leeftijd en geslacht zijn te vinden in tabel <a href='http://statline.cbs.nl/Statweb/publication/?DM=SLNL&PA=7052%5F95&'>Overledenen; belangrijke doodsoorzaken (korte lijst), leeftijd, geslacht </a>.
+
+Cijfers over overledenen naar de uitgebreide doodsoorzakenlijst, leeftijd en geslacht zijn te vinden in tabel <a href='http://statline.cbs.nl/Statweb/publication/?DM=SLNL&PA=7233'>Overledenen; doodsoorzaak (uitgebreide lijst), leeftijd, geslacht </a>.
+
+Cijfers over overledenen naar 4 groepen doodsoorzaken per regio zijn te vinden in tabel <a 
+Href=""http://statline.cbs.nl/StatWeb/publication/?VW=T&DM=slnl&PA=80142ned"">
+Doodsoorzaken; 4 hoofdgroepen, regio</a>.
+
+Cijfers over niet-natuurlijk overlijden zijn te vinden in de stopgezette tabel <a 
+Href=""http://statline.cbs.nl/StatWeb/publication/?VW=T&DM=slnl&PA=37683"">
+Doodsoorzaken; niet-natuurlijke dood, div. kenmerken (inwoners), 1996-2011</a>.
+
+Meer informatie is te vinden op de themapagina <a 
+href='http://www.cbs.nl/nl-NL/menu/themas/gezondheid-welzijn/nieuws/default.htm'>Gezondheid en welzijn</a>.
+
+
+4. BRONNEN EN METHODEN
+
+Gebruikte databron(nen) (buiten het CBS): 
+- doodsoorzaakverklaring;
+- Basisregistratie Personen (BRP);
+- dossier Officier van Justitie;
+- verkeersongevallenregistratie Ministerie van Infrastructuur en Milieu;
+- bedrijfsongevallenregistratie Arbeidsinspectie van Ministerie van Sociale Zaken en Werkgelegenheid;
+- zelfdodingsformulieren ontvangen van politie.
+
+De onderzoeksmethode van de statistiek Verkeersdoden is te vinden in de onderzoeksbeschrijving <a 
+href=""http://www.cbs.nl/nl-NL/menu/themas/bevolking/methoden/dataverzameling/korte-onderzoeksbeschrijvingen/korte-onderzoeksbeschrijving-verkeersdoden.htm?RefererType=Favorite"">Verkeersdoden</a>.
+
+De onderzoeksmethode van niet-natuurlijk overlijden is te vinden in de onderzoeksbeschrijving <a 
+href=""http://www.cbs.nl/nl-NL/menu/themas/bevolking/methoden/dataverzameling/korte-onderzoeksbeschrijvingen/korte-onderzoeksbeschrijving-niet-natuurlijke-dood.htm?RefererType=Favorite"">Niet-natuurlijk overlijden</a>.
+
+De onderzoeksmethode van de Doodsoorzakenstatistiek is te vinden in de onderzoeksbeschrijving <a
+href=""http://www.cbs.nl/nl-NL/menu/themas/bevolking/methoden/dataverzameling/korte-onderzoeksbeschrijvingen/doodsoorzakenstatistiek.htm?RefererType=Favorite"">Doodsoorzakenstatistiek</a>.
+
+
+5. MEER INFORMATIE
+
+<a href='http://www.cbs.nl/nl-NL/menu/informatie/publiek/inlichtingen/default.htm'>Infoservice</a>
+
+Copyright (c) Centraal Bureau voor de Statistiek, Den Haag/Heerlen 
+Verveelvoudiging is toegestaan, mits het CBS als bron wordt vermeld.
+","_la=nl&_si=&_gu=PV&_ed=Geslacht&graphType=map&_td=Perioden","$filter=((Geslacht eq '   3')) and (Leeftijd eq '  99') and (substringof('PV',RegioS)) and (Perioden eq '2015JJ00')&$select=Geslacht, Leeftijd, RegioS, Perioden, TotaalVerkeersdoden_1","Table,Bar,Line,Map","Regulier","CBS.","2016-04-21T15:00:00","2"

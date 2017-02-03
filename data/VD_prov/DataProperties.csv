@@ -1,0 +1,13 @@
+"odata.type","ID","Position","ParentID","Type","Key","Title","Description","MapYear","ReleasePolicy","Datatype","Unit","Decimals","Default","PresentationType"
+"Cbs.OData.Dimension",0,0,,"Dimension","Geslacht","Geslacht",,,,,,,,
+"Cbs.OData.Dimension",1,1,,"Dimension","Leeftijd","Leeftijd",,,,,,,,
+"Cbs.OData.GeoDimension",2,2,,"GeoDimension","RegioS","Regio's",,,,,,,,
+"Cbs.OData.TimeDimension",3,3,,"TimeDimension","Perioden","Perioden",,,FALSE,,,,,
+"Cbs.OData.Topic",4,4,,"Topic","TotaalVerkeersdoden_1","Totaal verkeersdoden","De weggebruiker die is overleden ten gevolge van een plotseling optredende gebeurtenis op de openbare weg in Nederland, verband houdend met het verkeer, waarbij ten minste één rijdend voertuig was betrokken. Het gaat dus om zowel inwoners als niet-inwoners. 
+Een overledene wordt niet als verkeersdode geteld indien:
+- het ongeval zich voordoet op een plaats die niet opengesteld is voor
+openbaar rij- en ander verkeer;
+- het ongeval zich voordoet op een gedeelte van een trein- of trambaan die geen deel uitmaakt van de openbare weg en door de aard uitsluitend
+gebruikt kan worden door een trein of een tram;
+- het slachtoffer 30 dagen of meer na het ongeval overlijdt;
+- de overledene al als slachtoffer van 'moord' of van 'zelfdoding' is geteld.",,,"Integer","aantal",0,"Zero","Absolute"

@@ -1,0 +1,348 @@
+"odata.type","ID","Position","ParentID","Type","Key","Title","Description","MapYear","ReleasePolicy","Datatype","Unit","Decimals","Default","PresentationType"
+"Cbs.OData.Dimension",0,0,,"Dimension","Geslacht","Geslacht",,,,,,,,
+"Cbs.OData.Dimension",1,1,,"Dimension","Leeftijd","Leeftijd",,,,,,,,
+"Cbs.OData.GeoDimension",2,2,,"GeoDimension","RegioS","Regio's",,,,,,,,
+"Cbs.OData.TimeDimension",3,3,,"TimeDimension","Perioden","Perioden","",,TRUE,,,,,
+"Cbs.OData.Topic",4,4,,"Topic","TotaalAlleDoodsoorzaken_1","Totaal alle doodsoorzaken","Alle doodsoorzaken tezamen.
+Bijbehorende ICD-codes:
+ICD-10: A00-Y89",,,"Long","aantal",0,"Impossible","Absolute"
+"Cbs.OData.TopicGroup",5,,,"TopicGroup","","1 Infectieuze en parasitaire ziekten","1 Infectieuze en parasitaire ziekten.
+Bijbehorende ICD-codes:
+ICD-10: A00-B99",,,,,,,
+"Cbs.OData.Topic",6,5,5,"Topic","TotaalInfectieuzeEnParasitaireZktn_2","Totaal infectieuze en parasitaire zktn","Totaal infectieuze en parasitaire ziekten.
+Bijbehorende ICD-codes:
+ICD-10: A00-B99",,,"Long","aantal",0,"Impossible","Absolute"
+"Cbs.OData.Topic",7,6,5,"Topic","k_11Tuberculose_3","1.1 Tuberculose","1.1 Tuberculose (TBC).
+Bijbehorende ICD-codes:
+ICD-10: A15-A19, B90",,,"Long","aantal",0,"Impossible","Absolute"
+"Cbs.OData.Topic",8,7,5,"Topic","k_12Meningokokkeninfecties_4","1.2 Meningokokkeninfecties","1.2 Meningokokkeninfecties.
+Bijbehorende ICD-codes:
+ICD-10: A39",,,"Long","aantal",0,"Impossible","Absolute"
+"Cbs.OData.Topic",9,8,5,"Topic","k_13ViraleHepatitis_5","1.3 Virale hepatitis","1.3 Virale hepatitis.
+Bijbehorende ICD-codes:
+ICD-10: B15-B19",,,"Long","aantal",0,"Impossible","Absolute"
+"Cbs.OData.Topic",10,9,5,"Topic","k_14AIDS_6","1.4 AIDS","1.4 Acquired Immune Deficiency Syndrome (AIDS).
+Bijbehorende ICD-codes:
+ICD-10: B20-B24",,,"Long","aantal",0,"Impossible","Absolute"
+"Cbs.OData.Topic",11,10,5,"Topic","k_15OvInfectieuzeEnParasitaireZktn_7","1.5 Ov. infectieuze en parasitaire zktn","1.5 Overige infectieuze en parasitaire ziekten.
+Bijbehorende ICD-codes:
+ICD-10: A00-A09, A20-A38, A40-B09, B25-99",,,"Long","aantal",0,"Impossible","Absolute"
+"Cbs.OData.TopicGroup",12,,,"TopicGroup","","2 Nieuwvormingen","2 Nieuwvormingen.
+Bijbehorende ICD-codes:
+ICD-10: C00-D48",,,,,,,
+"Cbs.OData.Topic",13,11,12,"Topic","TotaalNieuwvormingen_8","Totaal nieuwvormingen","Totaal nieuwvormingen.
+Bijbehorende ICD-codes:
+ICD-10: C00-D48",,,"Long","aantal",0,"Impossible","Absolute"
+"Cbs.OData.TopicGroup",14,,12,"TopicGroup","","2.1 Kwaadaardige nieuwvormingen","2.1 Kwaadaardige nieuwvormingen.
+Bijbehorende ICD-codes:
+ICD-10: C00-C97",,,,,,,
+"Cbs.OData.Topic",15,12,14,"Topic","TotaalKwaadaardigeNieuwvormingen_9","Totaal kwaadaardige nieuwvormingen","Totaal kwaadaardige nieuwvormingen.
+Bijbehorende ICD-codes:
+ICD-10: C00-C97",,,"Long","aantal",0,"Impossible","Absolute"
+"Cbs.OData.Topic",16,13,14,"Topic","k_211KwNvVanLipMondEnKeel_10","2.1.1 Kw. nv. van lip, mond en keel","2.1.1 Kwaadaardige nieuwvorming van lip, mond en keel.
+Bijbehorende ICD-codes:
+ICD-10: C00-C14",,,"Long","aantal",0,"Impossible","Absolute"
+"Cbs.OData.Topic",17,14,14,"Topic","k_212KwNvVanSlokdarm_11","2.1.2 Kw. nv. van slokdarm","2.1.2 Kwaadaardige nieuwvorming van slokdarm (oesophagus).
+Bijbehorende ICD-codes:
+ICD-10: C15",,,"Long","aantal",0,"Impossible","Absolute"
+"Cbs.OData.Topic",18,15,14,"Topic","k_213KwNvVanMaag_12","2.1.3 Kw. nv. van maag","2.1.3 Kwaadaardige nieuwvorming van maag.
+Bijbehorende ICD-codes:
+ICD-10: C16",,,"Long","aantal",0,"Impossible","Absolute"
+"Cbs.OData.Topic",19,16,14,"Topic","k_214KwNvVanDikkeDarm_13","2.1.4 Kw. nv. van dikke darm","2.1.4 Kwaadaardige nieuwvorming van dikke darm (colon).
+Bijbehorende ICD-codes:
+ICD-10: C18",,,"Long","aantal",0,"Impossible","Absolute"
+"Cbs.OData.Topic",20,17,14,"Topic","k_215KwNvVanEndeldarmEnAnus_14","2.1.5 Kw. nv. van endeldarm en anus","2.1.5 Kwaadaardige nieuwvorming van endeldarm (rectum) en anus.
+Bijbehorende ICD-codes:
+ICD-10: C19-C21",,,"Long","aantal",0,"Impossible","Absolute"
+"Cbs.OData.Topic",21,18,14,"Topic","k_216KwNvLeverEnIntrahGalwegen_15","2.1.6 Kw. nv. lever en intrah. galwegen","2.1.6 Kwaadaardige nieuwvorming van lever en intrahepatische galwegen
+(gespecificeerd).
+Bijbehorende ICD-codes:
+ICD-10: C22.0 - C22.8
+",,,"Long","aantal",0,"Impossible","Absolute"
+"Cbs.OData.Topic",22,19,14,"Topic","k_217KwNvVanGalblaasEnGalwegen_16","2.1.7 Kw. nv. van galblaas en galwegen","2.1.7 Kwaadaardige nieuwvorming van galblaas en galwegen.
+Bijbehorende ICD-codes:
+ICD-10: C23-C24",,,"Long","aantal",0,"Impossible","Absolute"
+"Cbs.OData.Topic",23,20,14,"Topic","k_218KwNvVanAlvleesklier_17","2.1.8 Kw. nv. van alvleesklier","2.1.8 Kwaadaardige nieuwvorming van alvleesklier (pancreas).
+Bijbehorende ICD-codes:
+ICD-10: C25",,,"Long","aantal",0,"Impossible","Absolute"
+"Cbs.OData.Topic",24,21,14,"Topic","k_219KwNvVanStrottehoofd_18","2.1.9 Kw. nv. van strottehoofd","2.1.9 Kwaadaardige nieuwvorming van strottehoofd (larynx).
+Bijbehorende ICD-codes:
+ICD-10: C32",,,"Long","aantal",0,"Impossible","Absolute"
+"Cbs.OData.Topic",25,22,14,"Topic","k_2110KwNvVanLuchtpijpEnLong_19","2.1.10 Kw. nv. van luchtpijp en long","2.1.10 Kwaadaardige nieuwvorming van luchtpijp (-vertakkingen) en long.
+Bijbehorende ICD-codes:
+ICD-10: C33-C34",,,"Long","aantal",0,"Impossible","Absolute"
+"Cbs.OData.Topic",26,23,14,"Topic","k_2111MelanoomVanHuid_20","2.1.11 Melanoom van huid","2.1.11 Melanoom van huid.
+Bijbehorende ICD-codes:
+ICD-10: C43",,,"Long","aantal",0,"Impossible","Absolute"
+"Cbs.OData.Topic",27,24,14,"Topic","k_2112KwNvVanBorst_21","2.1.12 Kw. nv. van borst","2.1.12 Kwaadaardige nieuwvorming van borst (mamma).
+Bijbehorende ICD-codes:
+ICD-10: C50",,,"Long","aantal",0,"Impossible","Absolute"
+"Cbs.OData.Topic",28,25,14,"Topic","k_2113KwNvVanBaarmoederhals_22","2.1.13 Kw. nv. van baarmoederhals","2.1.13 Kwaadaardige nieuwvorming van baarmoederhals (cervix uteri).
+Bijbehorende ICD-codes:
+ICD-10: C53",,,"Long","aantal",0,"Impossible","Absolute"
+"Cbs.OData.Topic",29,26,14,"Topic","k_2114KwNvVanBaarmoederlichaam_23","2.1.14 Kw. nv. van baarmoederlichaam","2.1.14 Kwaadaardige nieuwvorming van baarmoederlichaam (corpus uteri en uteri niet nader onderverdeeld).
+Bijbehorende ICD-codes:
+ICD-10: C54-C55",,,"Long","aantal",0,"Impossible","Absolute"
+"Cbs.OData.Topic",30,27,14,"Topic","k_2115KwNvVanEierstok_24","2.1.15 Kw. nv. van eierstok","2.1.15 Kwaadaardige nieuwvorming van eierstok (ovarium).
+Bijbehorende ICD-codes:
+ICD-10: C56",,,"Long","aantal",0,"Impossible","Absolute"
+"Cbs.OData.Topic",31,28,14,"Topic","k_2116KwNvVanProstaat_25","2.1.16 Kw. nv. van prostaat","2.1.16 Kwaadaardige nieuwvorming van prostaat.
+Bijbehorende ICD-codes:
+ICD-10: C61",,,"Long","aantal",0,"Impossible","Absolute"
+"Cbs.OData.Topic",32,29,14,"Topic","k_2117KwNvNierBehalveNierbekken_26","2.1.17 Kw. nv. nier, behalve nierbekken","2.1.17 Kwaadaardige nieuwvorming van nier, behalve nierbekken.
+Bijbehorende ICD-codes:
+ICD-10: C64",,,"Long","aantal",0,"Impossible","Absolute"
+"Cbs.OData.Topic",33,30,14,"Topic","k_2118KwNvVanUrineblaas_27","2.1.18 Kw. nv. van urineblaas","2.1.18 Kwaadaardige nieuwvorming van urineblaas.
+Bijbehorende ICD-codes:
+ICD-10: C67",,,"Long","aantal",0,"Impossible","Absolute"
+"Cbs.OData.Topic",34,31,14,"Topic","k_2119KwNvLymfEnBloedvWeefsel_28","2.1.19 Kw. nv. lymf. en bloedv. weefsel","2.1.19 Kwaadaardige nieuwvorming van lymfatisch en bloedvormend weefsel.
+Bijbehorende ICD-codes:
+ICD-10: C81-C96",,,"Long","aantal",0,"Impossible","Absolute"
+"Cbs.OData.Topic",35,32,14,"Topic","k_2120OvKwaadaardigeNieuwvormingen_29","2.1.20 Ov. kwaadaardige nieuwvormingen","2.1.20 Overige kwaadaardige nieuwvormingen.
+Bijbehorende ICD-codes:
+ICD-10: C17, C22.9, C26-C31, C35-C41, C44-C49, C51-C52, C57-C60, C62-C63, C65-C66, C68-C80, C97",,,"Long","aantal",0,"Impossible","Absolute"
+"Cbs.OData.Topic",36,33,12,"Topic","k_22OverigeNieuwvormingen_30","2.2 Overige nieuwvormingen","2.2 Overige nieuwvormingen.
+Bijbehorende ICD-codes:
+ICD-10: D00-D48",,,"Long","aantal",0,"Impossible","Absolute"
+"Cbs.OData.Topic",37,34,,"Topic","k_3ZktnBloedBloedvormendeOrganenEn_31","3 Zktn bloed, bloedvormende organen en..","3 Ziekten van bloed en bloedvormende organen en bepaalde aandoeningen van immuunsysteem.
+Bijbehorende ICD-codes:
+ICD-10: D50-D89",,,"Long","aantal",0,"Impossible","Absolute"
+"Cbs.OData.TopicGroup",38,,,"TopicGroup","","4 Endocriene, voedings-, stofw. zktn","4 Endocriene, voedings-, stofwisselingsziekten.
+Bijbehorende ICD-codes:
+ICD-10: E00-E90",,,,,,,
+"Cbs.OData.Topic",39,35,38,"Topic","TotaalEndocrieneVoedingsStofwZ_32","Totaal endocriene, voedings-, stofw. z..","Totaal endocriene, voedings-, stofwisselingsziekten.
+Bijbehorende ICD-codes:
+ICD-10: E00-E90",,,"Long","aantal",0,"Impossible","Absolute"
+"Cbs.OData.Topic",40,36,38,"Topic","k_41Suikerziekte_33","4.1 Suikerziekte","4.1 Suikerziekte (diabetes mellitus).
+Bijbehorende ICD-codes:
+ICD-10: E10-E14",,,"Long","aantal",0,"Impossible","Absolute"
+"Cbs.OData.Topic",41,37,38,"Topic","k_42OvEndocrieneVoedingsStofwis_34","4.2 Ov. endocriene, voedings-, stofwis..","4.2 Overige endocriene, voedings-, stofwisselingsziekten.
+Bijbehorende ICD-codes:
+ICD-10: E00-E07, E15-E90",,,"Long","aantal",0,"Impossible","Absolute"
+"Cbs.OData.TopicGroup",42,,,"TopicGroup","","5 Psychische stoornissen","5 Psychische stoornissen.
+Bijbehorende ICD-codes:
+ICD-10: F00-F99",,,,,,,
+"Cbs.OData.Topic",43,38,42,"Topic","TotaalPsychischeStoornissen_35","Totaal psychische stoornissen","Totaal psychische stoornissen.
+Bijbehorende ICD-codes:
+ICD-10: F00-F99",,,"Long","aantal",0,"Impossible","Absolute"
+"Cbs.OData.Topic",44,39,42,"Topic","k_51PsychischeStoornissenDoorAlcohol_36","5.1 Psychische stoornissen door alcohol","5.1 Psychische stoornissen door gebruik van alcohol.
+Bijbehorende ICD-codes:
+ICD-10: F10",,,"Long","aantal",0,"Impossible","Absolute"
+"Cbs.OData.Topic",45,40,42,"Topic","k_52PsychischeStoornissenDrugsEnVl_37","5.2 Psychische stoornissen drugs en vl..","5.2 Psychische stoornissen door gebruik drugs en vluchtige oplosmiddelen.
+Bijbehorende ICD-codes:
+ICD-10: F11-F16, F18-F19",,,"Long","aantal",0,"Impossible","Absolute"
+"Cbs.OData.Topic",46,41,42,"Topic","k_53OverigePsychischeStoornissen_38","5.3 Overige psychische stoornissen","5.3 Overige psychische stoornissen.
+Bijbehorende ICD-codes:
+ICD-10: F00-F09, F17-F99",,,"Long","aantal",0,"Impossible","Absolute"
+"Cbs.OData.TopicGroup",47,,,"TopicGroup","","6 Ziekten van zenuwstelsel en zintuigen","6 Ziekten van zenuwstelsel en zintuigen.
+Bijbehorende ICD-codes:
+ICD-10: G00-H95",,,,,,,
+"Cbs.OData.Topic",48,42,47,"Topic","TotaalZiektenZenuwstelselEnZintuigen_39","Totaal ziekten zenuwstelsel en zintuigen","Totaal ziekten van zenuwstelsel en zintuigen.
+Bijbehorende ICD-codes:
+ICD-10: G00-H95",,,"Long","aantal",0,"Impossible","Absolute"
+"Cbs.OData.Topic",49,43,47,"Topic","k_61Hersenvliesontsteking_40","6.1 Hersenvliesontsteking","6.1 Hersenvliesontsteking (meningitis).
+Bijbehorende ICD-codes:
+ICD-10: G00-G03",,,"Long","aantal",0,"Impossible","Absolute"
+"Cbs.OData.Topic",50,44,47,"Topic","k_62ZiekteVanParkinson_41","6.2 Ziekte van Parkinson","6.2 Ziekte van Parkinson.
+Bijbehorende ICD-codes:
+ICD-10: G20-G21",,,"Long","aantal",0,"Impossible","Absolute"
+"Cbs.OData.Topic",51,45,47,"Topic","k_63OvZktnZenuwstelselEnZintuigen_42","6.3 Ov. zktn zenuwstelsel en zintuigen","6.3 Overige ziekten van zenuwstelsel en zintuigen.
+Bijbehorende ICD-codes:
+ICD-10: G04-G13, G22-H95",,,"Long","aantal",0,"Impossible","Absolute"
+"Cbs.OData.TopicGroup",52,,,"TopicGroup","","7 Ziekten van hart en vaatstelsel","7 Ziekten van hart en vaatstelsel.
+Bijbehorende ICD-codes:
+ICD-10: I00-I99",,,,,,,
+"Cbs.OData.Topic",53,46,52,"Topic","TotaalZiektenVanHartEnVaatstelsel_43","Totaal ziekten van hart en vaatstelsel","Totaal ziekten van hart en vaatstelsel.
+Bijbehorende ICD-codes:
+ICD-10: I00-I99",,,"Long","aantal",0,"Impossible","Absolute"
+"Cbs.OData.TopicGroup",54,,52,"TopicGroup","","7.1 Ziekten van de kransvaten","7.1 Ziekten van de kransvaten (ischemische hartziekten).
+Bijbehorende ICD-codes:
+ICD-10: I20-I25",,,,,,,
+"Cbs.OData.Topic",55,47,54,"Topic","TotaalZiektenVanDeKransvaten_44","Totaal ziekten van de kransvaten","Totaal ziekten van de kransvaten (ischemische hartziekten).
+Bijbehorende ICD-codes:
+ICD-10: I20-I25",,,"Long","aantal",0,"Impossible","Absolute"
+"Cbs.OData.Topic",56,48,54,"Topic","k_711AcuutHartinfarct_45","7.1.1 Acuut hartinfarct","7.1.1 Acuut hartinfarct.
+Bijbehorende ICD-codes:
+ICD-10: I21-I22",,,"Long","aantal",0,"Impossible","Absolute"
+"Cbs.OData.Topic",57,49,54,"Topic","k_712OverigeZiektenVanDeKransvaten_46","7.1.2 Overige ziekten van de kransvaten","7.1.2 Overige ziekten van de kransvaten.
+Bijbehorende ICD-codes:
+ICD-10: I20, I23-I25",,,"Long","aantal",0,"Impossible","Absolute"
+"Cbs.OData.Topic",58,50,52,"Topic","k_72OverigeHartziekten_47","7.2 Overige hartziekten","7.2 Overige hartziekten.
+Bijbehorende ICD-codes:
+ICD-10: I30-I33, I39-I52",,,"Long","aantal",0,"Impossible","Absolute"
+"Cbs.OData.Topic",59,51,52,"Topic","k_73Hersenvaatletsels_48","7.3 Hersenvaatletsels","7.3 Hersenvaatletsels (CVA).
+Bijbehorende ICD-codes:
+ICD-10: I60-I69",,,"Long","aantal",0,"Impossible","Absolute"
+"Cbs.OData.Topic",60,52,52,"Topic","k_74OverigeZiektenHartEnVaatstelsel_49","7.4 Overige ziekten hart en vaatstelsel","7.4 Overige ziekten van hart en vaatstelsel.
+Bijbehorende ICD-codes:
+ICD-10: I00-I15, I26-I28, I34-I38, I70-I99",,,"Long","aantal",0,"Impossible","Absolute"
+"Cbs.OData.TopicGroup",61,,,"TopicGroup","","8 Ziekten van de ademhalingsorganen","8 Ziekten van de ademhalingsorganen.
+Bijbehorende ICD-codes:
+ICD-10: J00-J99",,,,,,,
+"Cbs.OData.Topic",62,53,61,"Topic","TotaalZiektenVanDeAdemhalingsorganen_50","Totaal ziekten van de ademhalingsorganen","Totaal ziekten van de ademhalingsorganen.
+Bijbehorende ICD-codes:
+ICD-10: J00-J99",,,"Long","aantal",0,"Impossible","Absolute"
+"Cbs.OData.Topic",63,54,61,"Topic","k_81Griep_51","8.1 Griep","8.1 Griep (influenza).
+Bijbehorende ICD-codes:
+ICD-10: J09-J11
+
+Sinds 2009 is aan de ICD10 de code J09 toegevoegd. Deze code was tot op heden niet toegevoegd aan 8.1 Griep.
+
+",,,"Long","aantal",0,"Impossible","Absolute"
+"Cbs.OData.Topic",64,55,61,"Topic","k_82Longontsteking_52","8.2 Longontsteking","8.2 Longontsteking (pneumonie).
+Bijbehorende ICD-codes:
+ICD-10: J12-J18",,,"Long","aantal",0,"Impossible","Absolute"
+"Cbs.OData.TopicGroup",65,,61,"TopicGroup","","8.3 Chron. aand. onderste luchtwegen","8.3 Chronische aandoeningen onderste luchtwegen (CARA).
+Bijbehorende ICD-codes:
+ICD-10: J40-J47",,,,,,,
+"Cbs.OData.Topic",66,56,65,"Topic","TotaalChronischeAandOndersteLucht_53","Totaal chronische aand. onderste lucht..","Totaal chronische aandoeningen onderste luchtwegen (CARA).
+Bijbehorende ICD-codes:
+ICD-10: J40-J47",,,"Long","aantal",0,"Impossible","Absolute"
+"Cbs.OData.Topic",67,57,65,"Topic","k_831Astma_54","8.3.1 Astma","8.3.1 Astma.
+Bijbehorende ICD-codes:
+ICD-10: J45-J46",,,"Long","aantal",0,"Impossible","Absolute"
+"Cbs.OData.Topic",68,58,65,"Topic","k_832OvChronAandOndersteLuchtw_55","8.3.2 Ov. chron. aand. onderste luchtw..","8.3.2 Overige chronische aandoeningen onderste luchtwegen.
+Bijbehorende ICD-codes:
+ICD-10: J40-J44, J47",,,"Long","aantal",0,"Impossible","Absolute"
+"Cbs.OData.Topic",69,59,61,"Topic","k_84OverigeZiektenAdemhalingsorganen_56","8.4 Overige ziekten ademhalingsorganen","8.4 Overige ziekten van de ademhalingsorganen.
+Bijbehorende ICD-codes:
+ICD-10: J00-J06, J20-J39, J60-J99",,,"Long","aantal",0,"Impossible","Absolute"
+"Cbs.OData.TopicGroup",70,,,"TopicGroup","","9 Ziekten van de spijsverteringsorganen","9 Ziekten van de spijsverteringsorganen.
+Bijbehorende ICD-codes:
+ICD-10: K00-K93",,,,,,,
+"Cbs.OData.Topic",71,60,70,"Topic","TotaalZiektenSpijsverteringsorganen_57","Totaal ziekten spijsverteringsorganen","Totaal ziekten van de spijsverteringsorganen.
+Bijbehorende ICD-codes:
+ICD-10: K00-K93",,,"Long","aantal",0,"Impossible","Absolute"
+"Cbs.OData.Topic",72,61,70,"Topic","k_91MaagzweerEnZweerAanTwaalfvinge_58","9.1 Maagzweer en zweer aan twaalfvinge..","9.1 Maagzweer en zweer aan twaalfvingerige en nuchtere darm.
+Bijbehorende ICD-codes:
+ICD-10: K25-K28",,,"Long","aantal",0,"Impossible","Absolute"
+"Cbs.OData.TopicGroup",73,,70,"TopicGroup","","9.2 Chronische leveraandoeningen","9.2 Chronische leveraandoeningen.
+Bijbehorende ICD-codes:
+ICD-10: K70,K73-K74",,,,,,,
+"Cbs.OData.Topic",74,62,73,"Topic","TotaalChronischeLeveraandoeningen_59","Totaal chronische leveraandoeningen","Totaal chronische leveraandoeningen.
+Bijbehorende ICD-codes:
+ICD-10: K70,K73-K74",,,"Long","aantal",0,"Impossible","Absolute"
+"Cbs.OData.Topic",75,63,73,"Topic","k_921ChronischeLeveraandAlcohol_60","9.2.1 Chronische leveraand. alcohol","9.2.1 Chronische leveraandoeningen onder invloed van alcohol.
+Bijbehorende ICD-codes:
+ICD-10: K70",,,"Long","aantal",0,"Impossible","Absolute"
+"Cbs.OData.Topic",76,64,73,"Topic","k_922OvChronischeLeveraandoeningen_61","9.2.2 Ov. chronische leveraandoeningen","9.2.2 Overige chronische leveraandoeningen.
+Bijbehorende ICD-codes:
+ICD-10: K73-K74",,,"Long","aantal",0,"Impossible","Absolute"
+"Cbs.OData.Topic",77,65,70,"Topic","k_93OvZiektenSpijsverteringsorganen_62","9.3 Ov. ziekten spijsverteringsorganen","9.3 Overige ziekten van de spijsverteringsorganen.
+Bijbehorende ICD-codes:
+ICD-10: K00-K23, K29-K67, K71-K72, K75-K93",,,"Long","aantal",0,"Impossible","Absolute"
+"Cbs.OData.Topic",78,66,,"Topic","k_10ZiektenHuidOnderhuidsBindweefsel_63","10 Ziekten huid, onderhuids bindweefsel","10 Ziekten van huid en onderhuids bindweefsel.
+Bijbehorende ICD-codes:
+ICD-10: L00-L99",,,"Long","aantal",0,"Impossible","Absolute"
+"Cbs.OData.TopicGroup",79,,,"TopicGroup","","11 Ziekten spieren, beenderen, bindwfsl","11 Ziekten van spieren, beenderen en bindweefsel.
+Bijbehorende ICD-codes:
+ICD-10: M00-M99",,,,,,,
+"Cbs.OData.Topic",80,67,79,"Topic","TotaalZiektenSpierenBeendBindwfsl_64","Totaal ziekten spieren, beend., bindwfsl","Totaal ziekten van spieren, beenderen en bindweefsel.
+Bijbehorende ICD-codes:
+ICD-10: M00-M99",,,"Long","aantal",0,"Impossible","Absolute"
+"Cbs.OData.Topic",81,68,79,"Topic","k_111ReumatoideArtritisEnArtrose_65","11.1 Reumatoïde artritis en artrose","11.1 Reumatoïde artritis en artrose.
+Bijbehorende ICD-codes:
+ICD-10: M05-M06, M15-M19",,,"Long","aantal",0,"Impossible","Absolute"
+"Cbs.OData.Topic",82,69,79,"Topic","k_112OvZktnSpierenBeendBindwfsl_66","11.2 Ov. zktn spieren, beend., bindwfsl","11.2 Overige ziekten van spieren, beenderen en bindweefsel.
+Bijbehorende ICD-codes:
+ICD-10: M00-M03, M07-M99",,,"Long","aantal",0,"Impossible","Absolute"
+"Cbs.OData.TopicGroup",83,,,"TopicGroup","","12 Ziekten urinewegen en gesl.organen","12 Ziekten urinewegen en geslachtsorganen.
+Bijbehorende ICD-codes:
+ICD-10: N00-N99",,,,,,,
+"Cbs.OData.Topic",84,70,83,"Topic","TotaalZktnUrinewegenEnGeslOrganen_67","Totaal zktn urinewegen en gesl. organen","Totaal ziekten urinewegen en geslachtsorganen.
+Bijbehorende ICD-codes:
+ICD-10: N00-N99",,,"Long","aantal",0,"Impossible","Absolute"
+"Cbs.OData.Topic",85,71,83,"Topic","k_121ZiektenVanNierEnUrineleider_68","12.1 Ziekten van nier en urineleider","12.1 Ziekten van nier en urineleider.
+Bijbehorende ICD-codes:
+ICD-10: N00-N20, N22-N29;
+ICD-9: 580-593;
+ICD-8: 580-593
+",,,"Long","aantal",0,"Impossible","Absolute"
+"Cbs.OData.Topic",86,72,83,"Topic","k_122OvZktnUrinewegenEnGeslOrganen_69","12.2 Ov. zktn urinewegen en gesl.organen","12.2 Overige ziekten urinewegen en geslachtsorganen.
+Bijbehorende ICD-codes:
+ICD-10: N21, N30-N99",,,"Long","aantal",0,"Impossible","Absolute"
+"Cbs.OData.Topic",87,73,,"Topic","k_13ComplicatiesZwangerschapBevallin_70","13 Complicaties zwangerschap, bevallin..","13 Complicaties van zwangerschap, bevalling, kraambed (moedersterfte).
+Bijbehorende ICD-codes:
+ICD-10: O00-O99",,,"Long","aantal",0,"Impossible","Absolute"
+"Cbs.OData.Topic",88,74,,"Topic","k_14AandoeningenVDPerinatalePeriode_71","14 Aandoeningen v.d. perinatale periode","14 Aandoeningen van de perinatale periode.
+Bijbehorende ICD-codes:
+ICD-10: P00-P96",,,"Long","aantal",0,"Impossible","Absolute"
+"Cbs.OData.TopicGroup",89,,,"TopicGroup","","15 Aangeboren afwijkingen","15 Aangeboren afwijkingen.
+Bijbehorende ICD-codes:
+ICD-10: Q00-Q99",,,,,,,
+"Cbs.OData.Topic",90,75,89,"Topic","TotaalAangeborenAfwijkingen_72","Totaal aangeboren afwijkingen","Totaal aangeboren afwijkingen.
+Bijbehorende ICD-codes:
+ICD-10: Q00-Q99",,,"Long","aantal",0,"Impossible","Absolute"
+"Cbs.OData.Topic",91,76,89,"Topic","k_151AangeborenAfwZenuwstelsel_73","15.1 Aangeboren afw. zenuwstelsel","15.1 Aangeboren afwijkingen van zenuwstelsel.
+Bijbehorende ICD-codes:
+ICD-10: Q00-Q07",,,"Long","aantal",0,"Impossible","Absolute"
+"Cbs.OData.Topic",92,77,89,"Topic","k_152AangeborenAfwHartEnBloedvaten_74","15.2 Aangeboren afw. hart en bloedvaten","15.2 Aangeboren afwijkingen van hart en bloedvaten.
+Bijbehorende ICD-codes:
+ICD-10: Q20-Q28",,,"Long","aantal",0,"Impossible","Absolute"
+"Cbs.OData.Topic",93,78,89,"Topic","k_153OverigeAangeborenAfwijkingen_75","15.3 Overige aangeboren afwijkingen","15.3 Overige aangeboren afwijkingen.
+Bijbehorende ICD-codes:
+ICD-10: Q10-Q18, Q30-Q99",,,"Long","aantal",0,"Impossible","Absolute"
+"Cbs.OData.TopicGroup",94,,,"TopicGroup","","16 Sympt. en onvoll. omschr. ziektebldn","16 Symptomen en onvolledig omschreven ziektebeelden.
+Bijbehorende ICD-codes:
+ICD-10: R00-R99",,,,,,,
+"Cbs.OData.Topic",95,79,94,"Topic","TotaalSympEnOnvollOmschrZiekten_76","Totaal symp. en onvoll. omschr. ziekten","Totaal symptomen en onvolledig omschreven ziektebeelden.
+Bijbehorende ICD-codes:
+ICD-10: R00-R99",,,"Long","aantal",0,"Impossible","Absolute"
+"Cbs.OData.Topic",96,80,94,"Topic","k_161Wiegendood_77","16.1 Wiegendood","16.1 Wiegendood (SIDS).
+Bijbehorende ICD-codes:
+ICD-10: R95",,,"Long","aantal",0,"Impossible","Absolute"
+"Cbs.OData.Topic",97,81,94,"Topic","k_162OnvollOmschrEnOnbekOorzaken_78","16.2 Onvoll. omschr. en onbek. oorzaken","16.2 Onvolledig omschreven en onbekende oorzaken.
+Bijbehorende ICD-codes:
+ICD-10: R96-R99;",,,"Long","aantal",0,"Impossible","Absolute"
+"Cbs.OData.Topic",98,82,94,"Topic","k_163OvSymptomenEnOnvolledigOmsch_79","16.3 Ov. symptomen en onvolledig omsch..","16.3 Overige symptomen en onvolledig omschreven ziektebeelden.
+Bijbehorende ICD-codes:
+ICD-10: R00-R94",,,"Long","aantal",0,"Impossible","Absolute"
+"Cbs.OData.TopicGroup",99,,,"TopicGroup","","17 Uitwendige doodsoorzaken","17 Uitwendige doodsoorzaken.
+Bijbehorende ICD-codes:
+ICD-10: V01-Y89",,,,,,,
+"Cbs.OData.Topic",100,83,99,"Topic","TotaalUitwendigeDoodsoorzaken_80","Totaal uitwendige doodsoorzaken","Totaal uitwendige doodsoorzaken.
+Bijbehorende ICD-codes:
+ICD-10: V01-Y89",,,"Long","aantal",0,"Impossible","Absolute"
+"Cbs.OData.TopicGroup",101,,99,"TopicGroup","","17.1 Ongevallen","17.1 Ongevallen.
+Bijbehorende ICD-codes:
+ICD-10: V01-X59",,,,,,,
+"Cbs.OData.Topic",102,84,101,"Topic","TotaalOngevallen_81","Totaal ongevallen","Totaal ongevallen.
+Bijbehorende ICD-codes:
+ICD-10: V01-X59",,,"Long","aantal",0,"Impossible","Absolute"
+"Cbs.OData.TopicGroup",103,,101,"TopicGroup","","17.1.1 Vervoersongevallen","17.1.1 Vervoersongevallen.
+Bijbehorende ICD-codes:
+ICD-10: V01-V99",,,,,,,
+"Cbs.OData.Topic",104,85,103,"Topic","TotaalVervoersongevallen_82","Totaal vervoersongevallen","Totaal vervoersongevallen.
+Bijbehorende ICD-codes:
+ICD-10: V01-V99",,,"Long","aantal",0,"Impossible","Absolute"
+"Cbs.OData.Topic",105,86,103,"Topic","k_17111Wegverkeersongevallen_83","17.1.1.1 Wegverkeersongevallen","17.1.1.1 Wegverkeersongevallen.
+Bijbehorende ICD-codes:
+ICD-10: Zie de tabeltoelichting voor een link naar de betreffende lijst
+van 4-tekencodes.",,,"Long","aantal",0,"Impossible","Absolute"
+"Cbs.OData.Topic",106,87,103,"Topic","k_17112OverigeVervoersongevallen_84","17.1.1.2 Overige vervoersongevallen","17.1.1.2 Overige vervoersongevallen.
+Bijbehorende ICD-codes:
+ICD-10: V01-V99 minus de lijst van 4-tekencodes, zie voor de link de tabeltoelichting;",,,"Long","aantal",0,"Impossible","Absolute"
+"Cbs.OData.Topic",107,88,101,"Topic","k_1712AccidenteleVal_85","17.1.2 Accidentele val","17.1.2 Accidentele val.
+Bijbehorende ICD-codes:
+ICD-10: W00-W19, X59",,,"Long","aantal",0,"Impossible","Absolute"
+"Cbs.OData.Topic",108,89,101,"Topic","k_1713AccidenteleVerdrinking_86","17.1.3 Accidentele verdrinking","17.1.3 Accidentele verdrinking.
+Bijbehorende ICD-codes:
+ICD-10: W65-W74",,,"Long","aantal",0,"Impossible","Absolute"
+"Cbs.OData.Topic",109,90,101,"Topic","k_1714AccidenteleVergiftiging_87","17.1.4 Accidentele vergiftiging","17.1.4 Accidentele vergiftiging.
+Bijbehorende ICD-codes:
+ICD-10: X40-X49",,,"Long","aantal",0,"Impossible","Absolute"
+"Cbs.OData.Topic",110,91,101,"Topic","k_1715OverigeOngevallen_88","17.1.5 Overige ongevallen","17.1.5 Overige ongevallen.
+Bijbehorende ICD-codes:
+ICD-10: W20-W64, W75-X39, X50-X58",,,"Long","aantal",0,"Impossible","Absolute"
+"Cbs.OData.Topic",111,92,99,"Topic","k_172Zelfdoding_89","17.2 Zelfdoding","17.2 Zelfdoding.
+Bijbehorende ICD-codes:
+ICD-10: X60-X84",,,"Long","aantal",0,"Impossible","Absolute"
+"Cbs.OData.Topic",112,93,99,"Topic","k_173MoordEnDoodslag_90","17.3 Moord en doodslag","17.3 Moord en doodslag.
+Bijbehorende ICD-codes:
+ICD-10: X85-Y09",,,"Long","aantal",0,"Impossible","Absolute"
+"Cbs.OData.Topic",113,94,99,"Topic","k_174GebeurtenissenOpzetOnbekend_91","17.4 Gebeurtenissen opzet onbekend","17.4 Gebeurtenissen opzet onbekend.
+Bijbehorende ICD-codes:
+ICD-10: Y10-Y34",,,"Long","aantal",0,"Impossible","Absolute"
+"Cbs.OData.Topic",114,95,99,"Topic","k_175OverigeUitwendigeDoodsoorzaken_92","17.5 Overige uitwendige doodsoorzaken","17.5 Overige niet-natuurlijke doodsoorzaken.
+Bijbehorende ICD-codes:
+ICD-10: Y35-Y89",,,"Long","aantal",0,"Impossible","Absolute"
